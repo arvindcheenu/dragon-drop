@@ -1,10 +1,11 @@
-# React + Vite + TypeScript Template (react-vite-ui)
+# 🐲 Dragon Drop
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Dan5py/react-vite-ui/blob/main/LICENSE)
+[![Blog](https://img.shields.io/badge/medium-blog-green)](https://isarvindone.medium.com/unleash-your-creative-dragon-1b6fd2a12b34)
 
-A React + Vite template powered by shadcn/ui.
+An Human Centered AI-Boosted Brainstorming Tool based on Gestalt Principles.
 
-## 🎉 Features
+## 🧰 Uses
 
 - **React** - A JavaScript library for building user interfaces.
 - **Vite** - A fast, opinionated frontend build tool.
@@ -16,7 +17,7 @@ A React + Vite template powered by shadcn/ui.
 - **Autoprefixer** - A PostCSS plugin to parse CSS and add vendor prefixes.
 - **shadcn/ui** - Beautifully designed components that you can copy and paste into your apps.
 
-## ⚙️ Prerequisites
+## 📋 Prerequisites
 
 Make sure you have the following installed on your development machine:
 
@@ -30,13 +31,13 @@ Follow these steps to get started with the react-vite-ui template:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dan5py/react-vite-ui.git
+   git clone https://github.com/isarvindone/dragon-drop.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd react-vite-ui
+   cd dragon-drop
    ```
 
 3. Install the dependencies:
@@ -63,7 +64,7 @@ Follow these steps to get started with the react-vite-ui template:
 The project structure follows a standard React application layout:
 
 ```python
-react-vite-ui/
+dragon-drop/
   ├── node_modules/      # Project dependencies
   ├── public/            # Public assets
   ├── src/               # Application source code
