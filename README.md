@@ -65,13 +65,14 @@ Follow these steps to get started with the react-vite-ui template:
 
 The project structure follows a standard React application layout:
 
-```python
+```shell
 dragon-drop/
   ├── node_modules/      # Project dependencies
   ├── public/            # Public assets
   ├── src/               # Application source code
   │   ├── components/    # React components
   │   │   └── ui/        # shadc/ui components
+  │   ├── hooks/         # React Hooks to access and handle OpenAI
   │   ├── styles/        # CSS stylesheets
   │   ├── lib/           # Utility functions
   │   ├── App.tsx        # Application entry point
