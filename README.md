@@ -3,6 +3,8 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Dan5py/react-vite-ui/blob/main/LICENSE)
 [![Blog](https://img.shields.io/badge/medium-blog-green)](https://isarvindone.medium.com/unleash-your-creative-dragon-1b6fd2a12b34)
 
+![Demo Gif](/demo.gif)
+
 An Human Centered AI-Boosted Brainstorming Tool based on Gestalt Principles.
 
 ## 🧰 Uses
